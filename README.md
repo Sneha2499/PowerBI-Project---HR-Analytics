@@ -1,6 +1,6 @@
 # PowerBI-Project---HR-Analytics
-HR Project
-Sure, here's a refined version:
+HR Project- Analysis
+
 
 1. The company has a total of 1480 employees, out of which 238 have left, representing an attrition rate of 16.1%.
 2. Employees tend to stay with the company for a significant period, with an average tenure of 7.01 years, indicating overall job satisfaction.
